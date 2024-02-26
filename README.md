@@ -1,2 +1,2 @@
 # css-keyframes-xadrez
-Tabuleiro de xadrez utilizando html e css (trabalho escolar)
+Tabuleiro de xadrez desenvolvido em aula utilizando HTML e CSS - (atividade escolar)
